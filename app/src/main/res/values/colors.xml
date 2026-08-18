@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="darker_gray">#FF555555</color>
+
+    <color name="cleanWaveBlue">#005DAA</color>
+    <color name="cleanWaveDarkBlue">#003366</color>
+    <color name="cleanWaveGreen">#28A745</color>
+    <color name="cleanWaveCardBg">#F8F9FB</color>
 </resources>
